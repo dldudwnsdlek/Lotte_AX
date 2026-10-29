@@ -32,7 +32,7 @@
 - ML: Python, SQL, scikit-learn, XGBoost, LightGBM, CatBoost, SHAP
 - DL: PyTorch, TensorFlow, Hugging Face Transformers, GNN
 - LLM: OpenAI API, LangChain, ChromaDB, GPTQ, vLLM
-- 서비스: Streamlit, Plotly, Git, Colab(GPU)
+- 서비스: Streamlit, Django, Plotly, Git, Colab(GPU)
 
 ■ 이번 과제와의 연결
 - OpenAI API·Streamlit 구현 경험 → AI 소비자 패널 생성과 시연 화면을 1박 2일 안에 구현
